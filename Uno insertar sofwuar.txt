@@ -1,0 +1,19 @@
+Uno insertar sofwuar
+Distintos sistemas operativos
+misma unidad c:\
+uso vivo
+entrelazado
+*.*
+hecho
+opcion instalar
+origen uefi
+32,64 bipt
+Uno-Windows-Windowsfx*.*
+Aplicar
+Todo Uno
+gtx
+para todo iso
+auto-gpt
+autogenerar
+mismo arranque
+...run.Shell
